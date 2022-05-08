@@ -337,4 +337,3 @@ BEGIN
 	ELSE PRINT(N'Giao vien hoặc môn học không tồn tại')
 END
  
-      -----------------THANK YOU FOR CHECKING QUERY FILE OF GROUP 6!----------------------
